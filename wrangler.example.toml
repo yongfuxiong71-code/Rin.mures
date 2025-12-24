@@ -18,8 +18,8 @@ S3_ACCESS_HOST = "<YourS3AccessHost>"
 S3_BUCKET = "<YourS3BucketName>"
 S3_FORCE_PATH_STYLE = "false"
 WEBHOOK_URL = "https://<YourWebhookURL>"
-RSS_TITLE = "Rin Development Environment"
-RSS_DESCRIPTION = "Development Environment"
+RSS_TITLE = "Samuel的博客"
+RSS_DESCRIPTION = "博客用于分析网络工具已经交流讨论使用，请勿用于违法用途，公网信息混乱请个人甄别信息真假，坚决贯彻一个中国原则是每个中国人因有的基本素质！"
 
 [[d1_databases]]
 binding = "DB"
