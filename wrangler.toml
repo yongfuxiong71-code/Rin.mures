@@ -22,6 +22,6 @@ RSS_TITLE = "Samuel的博客"
 RSS_DESCRIPTION = "博客用于分析网络工具已经交流讨论使用，请勿用于违法用途，公网信息混乱请个人甄别信息真假，坚决贯彻一个中国原则是每个中国人因有的基本素质！"
 
 [[d1_databases]]
-binding = "DB"
+binding = "800ddccc-2616-4b4d-a11e-4db53ea00ed5"
 database_name = "rin"
 database_id = "YourDatabaseID"
